@@ -1,4 +1,4 @@
-# Supervised Learning – Final Project (Rewritten with the Correct Target)
+# Supervised Learning – Final Project
 Finding employees satisfaction rating of PwC using ML - Hadiqa JAVAID, Manel RAHALI, Soumaya ATOUI
 
 As part of the course Supervised Learning, this project requires building and iterating on a Machine Learning pipeline that solves a real business challenge, supported by a proper EDA, preprocessing, modelling, and experiment tracking workflow.
