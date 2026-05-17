@@ -3,7 +3,7 @@ Finding employees satisfaction rating of PwC using ML - Hadiqa JAVAID, Manel RAH
 
 As part of the course Supervised Learning, this project requires building and iterating on a Machine Learning pipeline that solves a real business challenge, supported by a proper EDA, preprocessing, modelling, and experiment tracking workflow.
 
-We tried three models CatBoost, RandomforestClassifier (Optional) and LightGBM(Optional) to perform the same results. All three models are uplaoded for reference. However, since catboost performed the best, we explained that more.
+We tried three models CatBoost, RandomforestClassifier and LightGBM to achieve results. All three models are uplaoded for reference. However, since catboost performed the best, we explained that more.
 
 # 🧩 Business Use Case (BUC)
 The company conducts a global annual employee engagement survey. Each employee provides:
